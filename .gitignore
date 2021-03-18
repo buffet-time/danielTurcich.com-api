@@ -1,0 +1,8 @@
+/token.json
+credentials.json
+/bin
+/obj
+*.csproj
+*.user
+/Properties/PublishProfiles
+.vs/
